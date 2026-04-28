@@ -1,6 +1,6 @@
 # AI Virtual Air Canvas using Hand Gesture Recognition
 
-## 📌 Project Overview
+ Project Overview
 
 AI Virtual Air Canvas is a computer vision-based project that allows users to draw in the air using hand gestures without touching the screen. Using a webcam, the system detects hand landmarks in real time, tracks the index finger, and uses it as a virtual pen for drawing on screen.
 
@@ -8,7 +8,7 @@ This project demonstrates practical applications of Computer Vision, Hand Tracki
 
 ---
 
-## 🚀 Features
+ Features
 
 * Real-time hand detection using webcam
 * Index fingertip tracking for virtual drawing
@@ -21,7 +21,7 @@ This project demonstrates practical applications of Computer Vision, Hand Tracki
 
 ---
 
-## 🛠 Technologies Used
+Technologies Used
 
 * Python
 * OpenCV
@@ -32,7 +32,7 @@ This project demonstrates practical applications of Computer Vision, Hand Tracki
 
 ---
 
-## ⚙️ System Workflow
+ System Workflow
 
 1. Webcam captures live video feed
 2. MediaPipe detects hand landmarks
@@ -44,7 +44,7 @@ This project demonstrates practical applications of Computer Vision, Hand Tracki
 
 ---
 
-## 📂 Project Structure
+Project Structure
 
 * `main.py` → Basic hand detection
 * `main2.py` → Improved hand tracking
@@ -54,7 +54,7 @@ This project demonstrates practical applications of Computer Vision, Hand Tracki
 
 ---
 
-## ▶️ Installation & Setup
+ Installation & Setup
 
 ### Step 1: Clone Repository
 
@@ -77,7 +77,7 @@ py -3.10 final_air_canvas.py
 
 ---
 
-## 🎯 Applications
+ Applications
 
 * Academic mini project
 * Computer vision demonstration
@@ -88,7 +88,7 @@ py -3.10 final_air_canvas.py
 
 ---
 
-## 🔮 Future Enhancements
+ Future Enhancements
 
 * Save drawing as image
 * Shape recognition using AI
@@ -97,18 +97,15 @@ py -3.10 final_air_canvas.py
 * Mobile application version
 * Advanced gesture classification
 
----
+Author
 
-## 👨‍💻 Author
-
-### Mohit Gavhane
+Mohit Gavhane
 
 Computer Science Engineering Student
 Passionate about Python, Artificial Intelligence, and Computer Vision Projects.
 
----
 
-## ⭐ Support
+ Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
 
